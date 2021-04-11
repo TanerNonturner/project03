@@ -11,6 +11,7 @@ public class Test01 {
 		System.out.println("second commit from remote master branch");
 		System.out.println("third commit from remote master branch");
 		System.out.println("Here is the conflict from remote master branch");
+        System.out.println("Here is message from local feature branch");	
 	}
 
 }
